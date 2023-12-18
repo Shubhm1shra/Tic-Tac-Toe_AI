@@ -289,7 +289,7 @@ if __name__ == "__main__":
     print(" ")
 
     p1 = Player("Computer", exp_rate=0)
-    p1.loadPolicy("policy_IMP")
+    p1.loadPolicy("policy_hard")
 
     p2 = HumanPlayer("You")
 
