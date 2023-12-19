@@ -1,14 +1,12 @@
 # Tic-Tac-Toe_AI
-
-## Project Overview 
 Welcome to my Project 'Tic-Tac-Toe_AI', an exciting project where the classic game of Tic-Tac-Toe and Reinforcement Learning are brought together to fight my inability to make friends. This AI, utilizes reinforcement learning to develop optimal strategies and policies to engage in strategic gameplay against human opponents. These policies are stored as byte-files in Q-Table format.
 
 - - - - 
 
 ## Features
-* Reinforcement Learning : Utilizes Q-leanring to evolve AI's decision making prowess.
-* Human vs AI Duel : Challenge yourself against the AI in intense Tic-Tac-Toe battles.
-* Light Execution : Rather than using a deep-learning model, this model simply utilizes previous experiences to create a Q-Table.
+* __Reinforcement Learning__ : Utilizes Q-leanring to evolve AI's decision making prowess.
+* __Human vs AI Duel__ : Challenge yourself against the AI in intense Tic-Tac-Toe battles.
+* __Light Execution__ : Rather than using a deep-learning model, this model simply utilizes previous experiences to create a Q-Table.
 
 ## Prerequisites
 Ensure that the following libraries are installed.
