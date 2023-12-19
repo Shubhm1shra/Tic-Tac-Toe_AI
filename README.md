@@ -1,5 +1,5 @@
 # Tic-Tac-Toe_AI
-Welcome to my Project 'Tic-Tac-Toe_AI', an exciting project where the classic game of Tic-Tac-Toe and Reinforcement Learning are brought together to fight my inability to make friends. This AI, utilizes reinforcement learning to develop optimal strategies and policies to engage in strategic gameplay against human opponents. These policies are stored as byte-files in Q-Table format.
+Welcome to my Project 'Tic-Tac-Toe_AI', an exciting project where the classic game of Tic-Tac-Toe and Reinforcement Learning are brought together to fight my inability to make friends. This AI, utilizes reinforcement learning to develop optimal strategies and policies to engage in strategic gameplay against human opponents.
 
 - - - - 
 
